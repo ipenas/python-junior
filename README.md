@@ -6,7 +6,7 @@ Ofrecemos un grato ambiente de trabajo, remoto hasta Enero 2021, participar en p
 
 ## ¿Cómo le hago?
 
-Para empezar a conversar vamos a necesitar que nos envien un email a: **daniela.moran@kibernum.com** con copia a **ipena@copec.cl** y **osilva@copec.cl**. En el asunto colocar:
+Para empezar a conversar vamos a necesitar que nos envien un email a: **daniela.moran@kibernum.com**. En el asunto colocar:
 ```bash
   Postulación desarrollador Python G18
 ```
